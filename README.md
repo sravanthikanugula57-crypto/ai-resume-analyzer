@@ -2,6 +2,12 @@
 
 An AI-powered Resume Analyzer built with Python, Streamlit, and Google Gemini AI.
 
+## 🚀 Live Demo
+
+https://ai-resume-analyzer-3tqoq8bjq8bz6grsbtppur.streamlit.app/
+
+---
+
 ## 🚀 Features
 
 * 📄 Upload Resume (PDF)
@@ -9,18 +15,13 @@ An AI-powered Resume Analyzer built with Python, Streamlit, and Google Gemini AI
 * 🧠 AI-Powered Resume Review using Gemini AI
 * 🎯 ATS Match Score Calculation
 * ✅ Skill Detection
-* ❌ Missing Skills Identification
-* 📋 Resume Section Checker
-* 🌐 LinkedIn & GitHub Profile Detection
 * 🏆 Overall Resume Quality Score
-* ⭐ Resume Rating System
-* 💪 Resume Strength Analysis
-* ⚠️ Improvement Suggestions
+* 💡 Improvement Suggestions
 * 📥 Download PDF Report
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠 Technologies Used
 
 * Python
 * Streamlit
@@ -28,6 +29,38 @@ An AI-powered Resume Analyzer built with Python, Streamlit, and Google Gemini AI
 * PyPDF2
 * ReportLab
 * Git & GitHub
+
+---
+
+## 📸 Screenshots
+
+### Home Page
+
+![Home Page](screenshots-resume%20analyzer/Home%20Page.png)
+
+### Resume Upload
+
+![Resume Upload](screenshots-resume%20analyzer/Resume%20Upload.png)
+
+### AI Resume Review
+
+![AI Resume Review](screenshots-resume%20analyzer/AI%20Resume%20Review.png)
+
+### ATS Match Score
+
+![ATS Match Score](screenshots-resume%20analyzer/ATS%20Match%20Score.png)
+
+### Overall Resume Quality
+
+![Overall Resume Quality](screenshots-resume%20analyzer/Overall%20Resume%20Quality.png)
+
+### PDF Report Generation
+
+![PDF Report Generation](screenshots-resume%20analyzer/PDF%20Report%20Generation.png)
+
+### Resume Rating
+
+![Resume Rating](screenshots-resume%20analyzer/resume%20rating.png)
 
 ---
 
@@ -55,19 +88,13 @@ AI_Resume_Analyzer/
 
 ---
 
-## ⚙️ Installation
-
-Clone the repository:
+## ⚙ Installation
 
 ```bash
 git clone https://github.com/sravanthikanugula57-crypto/ai-resume-analyzer.git
 
 cd ai-resume-analyzer
-```
 
-Install dependencies:
-
-```bash
 pip install -r requirements.txt
 ```
 
@@ -83,7 +110,7 @@ GEMINI_API_KEY=YOUR_API_KEY_HERE
 
 ---
 
-## ▶️ Run the Project
+## ▶ Run the Project
 
 ```bash
 streamlit run app.py
@@ -91,51 +118,11 @@ streamlit run app.py
 
 ---
 
-## 🌐 Live Demo
-
-Streamlit App:
-
-https://ai-resume-analyzer-3tqoq8bjq8bz6grsbtppur.streamlit.app/
-
----
-
-## 📸 Screenshots
-
-### Home Page
-
-![Home Page](screenshots/home.png)
-
-### Resume Analysis
-
-![Analysis](screenshots/analysis.png)
-
-### ATS Score
-
-![ATS Score](screenshots/ats_score.png)
-
----
-
-## 🎯 Future Enhancements
-
-* Resume Ranking
-* Job Recommendation System
-* Multiple Resume Comparison
-* Interview Question Generator
-* Resume Template Suggestions
-
----
-
 ## 👩‍💻 Author
 
 **Sravanthi Kanugula**
 
-B.Tech AI & ML Student
+B.Tech (AI & ML)
 
 GitHub:
 https://github.com/sravanthikanugula57-crypto
-
----
-
-## ⭐ Support
-
-If you found this project useful, please give it a star ⭐ on GitHub.
